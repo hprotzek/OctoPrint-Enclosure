@@ -3,7 +3,7 @@ import sys
 import time
 
 LED_INVERT = False
-LED_DMA = 5
+LED_DMA = 10
 LED_FREQ_HZ = 800000
 
 if len(sys.argv) == 8:
